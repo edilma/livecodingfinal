@@ -1,0 +1,11 @@
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.1\LiveCodingFinal.csprojAssemblyReference.cache
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.1\LiveCodingFinal.AssemblyInfoInputs.cache
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.1\LiveCodingFinal.AssemblyInfo.cs
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.exe
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.deps.json
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.runtimeconfig.json
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.runtimeconfig.dev.json
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.dll
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\bin\Debug\netcoreapp3.1\LiveCodingFinal.pdb
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.1\LiveCodingFinal.dll
+C:\Users\Edilma\source\repos\LiveCodingFinal\LiveCodingFinal\obj\Debug\netcoreapp3.1\LiveCodingFinal.pdb
